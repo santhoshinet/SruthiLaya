@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link href="/Content/stylesheet.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/FormLayout.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <table width="900" align="center" cellpadding="0" cellspacing="0" background="/images/bg.jpg">
+        <tr>
+            <th>
+                <!--
+                <% string controller = ViewContext.Controller.ValueProvider.GetValue("controller").RawValue.ToString().ToLower();
+                   if (controller != "controlpanel" && controller != "account")
+                   {
+                       var width = "100%";
+                       var height = "600px;";
+                %>
+                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height='<%= height %>'
+                    width="<%= width %>" style="z-index: 0;" style="background-color: #fff;" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"
+                    id="Object1">
+                    <param name="movie" value="/Images/intro.swf" height='<%= height %>' width="<%= width %>"
+                        style="background-color: #fff; z-index: 0;" />
+                    <param name="quality" value="high" height='<%= height %>' width="<%= width %>" style="background-color: #fff;
+                        z-index: 0;" />
+                    <param name="bgcolor" value="#000" height='<%= height %>' width="<%= width %>" style="background-color: #fff;
+                        z-index: 0;" />
+                    <embed src="/Images/intro.swf" quality="high" bgcolor="#fff" name="mymoviename" style="background-color: #fff;
+                        z-index: 0;" height='<%= height %>' width="<%= width %>" align="" type="application/x-shockwave-flash"
+                        pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed>
+                </object>
+                <% }
+                %>
+                -->
+                <img src="/images/suresh.jpg" width="900" height="250" border="0" usemap="#Map" alt="" />
+                <map name="Map" id="Map">
+                    <area shape="rect" coords="189,12,285,29" href="/pages/sureshprofile" alt="" />
+                    <area shape="rect" coords="295,12,397,31" href="/pages/sureshproject" alt="" />
+                    <area shape="rect" coords="371,219,411,242" href="/" alt="" />
+                    <area shape="rect" coords="417,218,526,240" href="/pages/aboutsruthilaya" alt="" />
+                    <area shape="rect" coords="537,220,628,241" href="/pages/recentshow" alt="" />
+                    <area shape="rect" coords="640,216,686,244" href="/pages/review" alt="" />
+                    <area shape="rect" coords="697,212,747,244" href="/pages/gallery" alt="" />
+                    <area shape="rect" coords="755,217,806,241" href="/pages/enquiry.html" alt="" />
+                    <area shape="rect" coords="817,217,889,241" href="/pages/contactus.html" alt="" />
+                </map>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <div class="Content">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </div>
+            </th>
+        </tr>
+    </table>
+</body>
+</html>

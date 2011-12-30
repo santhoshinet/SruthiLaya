@@ -1,0 +1,18 @@
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrChestra.dll
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrChestra.pdb
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\obj\Debug\SruthiOrChestra.dll
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\obj\Debug\SruthiOrChestra.pdb
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrchestraDL.dll
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\Telerik.OpenAccess.dll
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\Telerik.OpenAccess.Query.dll
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\Telerik.OpenAccess.Query.xml
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\Telerik.OpenAccess.xml
+C:\Users\Santhosh\Desktop\My Works\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrchestraDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrChestra.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrChestra.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrchestraDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\bin\SruthiOrchestraDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\obj\Debug\SruthiOrChestra.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\SruthiOrChestra\SruthiOrChestra\obj\Debug\SruthiOrChestra.pdb

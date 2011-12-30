@@ -1,0 +1,244 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:Pages.aspx" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Scripts/f:elrte.min.js" caret="4631" fromTop="8" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:InsertImage.aspx" caret="791" fromTop="22" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:Register.aspx" caret="1893" fromTop="31" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:AddPage.aspx" caret="3820" fromTop="37" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:EditPage.aspx" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:Images.aspx" caret="2161" fromTop="22" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="675" fromTop="16" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="9816" fromTop="41" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Home/f:Pages.aspx" caret="409" fromTop="7" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:LogOn.aspx" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Scripts/f:Controlpanel.js" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Scripts/f:jquery-fieldselection.js" caret="0" fromTop="0" />
+      <File id="9931B3DB-A8B7-42D8-A8F8-94AFBC3401FF/f:WebPage.cs" caret="0" fromTop="0" />
+      <File id="9931B3DB-A8B7-42D8-A8F8-94AFBC3401FF/f:Images.cs" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Content/f:FormLayout.css" caret="512" fromTop="12" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Content/f:products.css" caret="353" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Content/f:stylesheet.css" caret="1031" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Models/f:AccountModels.cs" caret="1923" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Models/f:ControlpanelModel.cs" caret="343" fromTop="13" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Models/f:ImageModel.cs" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Default.aspx.cs" caret="454" fromTop="12" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Default.aspx" caret="343" fromTop="7" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Global.asax.cs" caret="2263" fromTop="26" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:web.config" caret="2682" fromTop="26" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:HomeController.cs" caret="1941" fromTop="43" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:AccountController.cs" caret="3080" fromTop="40" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:AddImage.aspx" caret="0" fromTop="0" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="672" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:Register.aspx" caret="1731" fromTop="33" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:Register.aspx" caret="981" fromTop="13" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:Register.aspx" caret="1893" fromTop="31" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="471" fromTop="17" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="690" fromTop="25" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="1158" fromTop="25" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="1855" fromTop="16" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="2812" fromTop="23" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="3049" fromTop="22" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="3307" fromTop="21" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="4354" fromTop="25" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:ControlpanelController.cs" caret="5100" fromTop="21" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:EditPage.aspx" caret="2172" fromTop="14" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:EditPage.aspx" caret="3519" fromTop="42" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:EditPage.aspx" caret="3197" fromTop="31" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Home/f:Index.aspx" caret="460" fromTop="10" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Default.aspx" caret="348" fromTop="8" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Home/f:Pages.aspx" caret="115" fromTop="1" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="948" fromTop="12" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Global.asax.cs" caret="2235" fromTop="32" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:Global.asax.cs" caret="2446" fromTop="35" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Controlpanel/f:Images.aspx" caret="2161" fromTop="22" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:AccountController.cs" caret="2323" fromTop="15" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Controllers/f:AccountController.cs" caret="3810" fromTop="26" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="675" fromTop="16" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="672" fromTop="9" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="3377" fromTop="34" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="3321" fromTop="27" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/d:Views/d:Shared/f:Site.Master" caret="3351" fromTop="28" />
+      <File id="65664641-222F-4F2A-A00C-72AEE4105BAF/f:web.config" caret="2867" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="8" />
+      <Item value="string" priority="6" />
+      <Item value="webPage" priority="0" />
+      <Item value="var" priority="4" />
+      <Item value="scope" priority="10" />
+      <Item value="from" priority="1" />
+      <Item value="c" priority="4" />
+      <Item value="select" priority="1" />
+      <Item value="pages" priority="1" />
+      <Item value="WebPage`0" priority="0" />
+      <Item value="ActionResult`0" priority="4" />
+      <Item value="return" priority="14" />
+      <Item value="View`0" priority="7" />
+      <Item value="ContentPage`0" priority="2" />
+      <Item value="where" priority="1" />
+      <Item value="title" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="contentPage" priority="4" />
+      <Item value="new" priority="2" />
+      <Item value="Page" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="File`0" priority="1" />
+      <Item value="files" priority="0" />
+      <Item value="image" priority="0" />
+      <Item value="HttpGet" priority="0" />
+      <Item value="AddImage" priority="0" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="pageModel" priority="0" />
+      <Item value="PageModel`0" priority="2" />
+      <Item value="adPageModel" priority="3" />
+      <Item value="RedirectToAction`0" priority="5" />
+      <Item value="page" priority="2" />
+      <Item value="content_page" priority="2" />
+      <Item value="file" priority="1" />
+      <Item value="productFile" priority="1" />
+      <Item value="ImageModel`0" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="pid" priority="2" />
+      <Item value="stylesheet.css" priority="0" />
+      <Item value="products.css" priority="0" />
+      <Item value="if" priority="6" />
+      <Item value="ModelBinderAttribute`0" priority="0" />
+      <Item value="ModelState" priority="2" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="Pages" priority="1" />
+      <Item value="ID" priority="0" />
+      <Item value="Images" priority="0" />
+      <Item value="count" priority="0" />
+      <Item value="ValidateRequest" priority="0" />
+      <Item value="ViewData" priority="1" />
+      <Item value="else" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="LoadImages`0" priority="0" />
+      <Item value="RouteValueDictionary" priority="0" />
+      <Item value="RegisterModel`0" priority="0" />
+      <Item value="User" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrchestraDL.WebPage">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.IObjectScope">
+      <Item value="GetOqlQuery`0" priority="1" />
+      <Item value="Transaction" priority="4" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.Query`1">
+      <Item value="ExecuteDirect`0" priority="0" />
+      <Item value="ExecuteEnumerable`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+      <Item value="First`1" priority="2" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrchestraDL.ContentPage">
+      <Item value="Name" priority="4" />
+      <Item value="Content" priority="3" />
+      <Item value="ID" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="1" />
+      <Item value="ToLower`0" priority="1" />
+      <Item value="Trim`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.ITransaction">
+      <Item value="Begin`0" priority="3" />
+      <Item value="Commit`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.DataType">
+      <Item value="Html" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrChestra.Models.PageModel">
+      <Item value="PageTitle" priority="4" />
+      <Item value="Content" priority="3" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="ID" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrchestraDL.File">
+      <Item value="Filename" priority="1" />
+      <Item value="ID" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrChestra.Models.ImageModel">
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpPostedFileBase">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Year" priority="0" />
+      <Item value="Month" priority="0" />
+      <Item value="Ticks" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="IsValid" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="HiddenFor`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.UrlParameter">
+      <Item value="Optional" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="JetBrains.ReSharper.Feature.Services.Asp.CodeCompletion.AspBasicCodeCompletionContext">
+      <Item value="ctx" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SruthiOrChestra.Models.RegisterModel">
+      <Item value="Email" priority="2" />
+      <Item value="ConfirmPassword" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="IsAuthenticated" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

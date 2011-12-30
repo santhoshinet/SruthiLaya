@@ -1,0 +1,4 @@
+image deletion
+username , password should be changable
+html code at top
+
